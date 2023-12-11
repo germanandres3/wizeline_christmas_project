@@ -1,3 +1,9 @@
+# Índice del Repositorio
+
+- [Presents Notebook](./Presents.ipynb) - Notebook de Jupyter con el código fuente y la lógica del proyecto.
+- [Documentación del Proyecto](./Documentation%20of%20the%20Gift%20Idea%20Generation%20Project.pdf) - Documento PDF con la descripción detallada del proyecto y su funcionamiento.
+- [Código Fuente](./Wizeline_christmas_project.py) - Script en Python del proyecto para la generación de ideas de regalos.
+- [Licencia](./LICENSE.txt) - Texto de la licencia MIT que cubre el uso y distribución del software.
 
 # Project Name
 
